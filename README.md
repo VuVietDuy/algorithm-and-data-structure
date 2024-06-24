@@ -1,14 +1,14 @@
 # Algorithm and data structure
 ## Algorithm
-- [Searching]
-- [Sorting]
-- [Divide and Conqier]
-- [Greedy]
-- [Recursion]
-- [Backtracking]
-- [Dynamic Programming]
-- [Graph Algorithm]
-- [Pattern]
+- [Searching](#) 
+- [Sorting](#) 
+- [Divide and Conqier](#) 
+- [Greedy](#) 
+- [Recursion](#) 
+- [Backtracking](#) 
+- [Dynamic Programming](#) 
+- [Graph Algorithm](#) 
+- [Pattern](#) 
 ## Data structure
 - [Linked List](#linked-list)
 - [Stack](#stack)
